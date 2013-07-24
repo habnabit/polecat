@@ -1,3 +1,7 @@
+# -*- python -*-
+# Copyright (c) Aaron Gallagher <_@habnab.it>
+# See COPYING for details.
+
 import sqlite3
 
 from twisted.application.internet import TimerService, TCPClient

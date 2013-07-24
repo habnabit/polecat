@@ -1,3 +1,6 @@
+# Copyright (c) Aaron Gallagher <_@habnab.it>
+# See COPYING for details.
+
 from twisted.internet import protocol, defer
 from twisted.protocols import amp
 

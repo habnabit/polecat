@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #%# family=auto
 #%# capabilities=autoconf suggest
+# Copyright (c) Aaron Gallagher <_@habnab.it>
+# See COPYING for details.
 
 from twisted.internet.endpoints import clientFromString
 from twisted.internet import defer, task, protocol
